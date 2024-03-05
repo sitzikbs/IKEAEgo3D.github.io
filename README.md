@@ -1,6 +1,6 @@
 # IKEA Ego 3D Dataset
 
-This is the repository that contains source code for the [IKEA Ego 3D website](https://sitzikbs.github.io/ikeaego3d.github.io/).
+This is the repository that contains source code for the [IKEA Ego 3D website](https://sitzikbs.github.io/IKEAEgo3D.github.io/). 
 
 If you find GraVos useful for your work please cite:
 ```
